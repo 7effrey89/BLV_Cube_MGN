@@ -1,0 +1,6 @@
+If you decide to update, you should update in following order:
+
+System Update (Bring latest RaspberryOS Updates to the System)
+Klipper Update ( To get latest Firmware, often flashing the MCU can wear out his memory )
+Moonraker ( Having latest Version, could lead to more Features in Frontend )
+Update Mainsail ( The most important! :P )
